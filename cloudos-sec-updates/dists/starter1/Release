@@ -1,0 +1,64 @@
+Architectures: amd64 i386
+Codename: starter1
+Components: main
+Date: Mon, 10 Jan 2022 18:50:15 +0000
+Description: CloudOS Starter 1.0 GA
+Label: Ubuntu
+Origin: Ubuntu
+Suite: starter1
+MD5Sum:
+ 2764237782ff59dc67f7a3a737784b18              181 Release
+ 7f0bfa71ccfc6c84560dafb599f8cfa7             3828 main/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 60757111c3d902dc30275ce72d87ba65               29 main/binary-amd64/Packages.gz
+ 4f8cf61d5f0665b3f4c7369a1ee67ab9               98 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
+ 60757111c3d902dc30275ce72d87ba65               29 main/binary-i386/Packages.gz
+ 1e746149f1346418c88f615b8d28e3a9               97 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/source/Packages
+ 96c28a551a206686819602b205b515d7               29 main/source/Packages.gz
+ a4d94c1474f4d3181c35f408ce7f6a41               99 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/source/Sources
+ 60757111c3d902dc30275ce72d87ba65               29 main/source/Sources.gz
+SHA1:
+ 4cc80b8af6e543cbcffffced8654b348b9578e09              181 Release
+ 782d9f5caa56f05ef95377f79f633826803b7063             3828 main/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 30862fefa614637c83afd2e5d2c920ad686aa5a1               29 main/binary-amd64/Packages.gz
+ 4a370dc1b6f48e60713400843c6299f11135c828               98 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
+ 30862fefa614637c83afd2e5d2c920ad686aa5a1               29 main/binary-i386/Packages.gz
+ 6f123f735321c3ec02f0a2d3e332137014d2eb41               97 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/source/Packages
+ 22dffaafb0c4b781321bb59b8fbf86b92bbf47f8               29 main/source/Packages.gz
+ ce2ed778974f96dffe6761097cbb25768cb76994               99 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/source/Sources
+ 30862fefa614637c83afd2e5d2c920ad686aa5a1               29 main/source/Sources.gz
+SHA256:
+ 762a7974b7bce347362cfc15b34c8bfc5bf6df9dcc47036eca00d826d5129651              181 Release
+ 27f9c368864d6c52bbf584f26e9b5a699df3d6e4d0ce5977a97feea8cdac01cf             3828 main/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 189c777514ca67c37c2a0e7bbd04c6ee4c6087238811e9109fe76446d30e3bd2               29 main/binary-amd64/Packages.gz
+ 251d737dfbf6a931e6a355a7c97f98b3b1c9826f70ca859df3b7eeae487d251d               98 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
+ 189c777514ca67c37c2a0e7bbd04c6ee4c6087238811e9109fe76446d30e3bd2               29 main/binary-i386/Packages.gz
+ 6a5bb7bd2cc7441bbda619b22bb26c010b7e00c3f96d52a48b438e5d4b7b7bfd               97 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/source/Packages
+ f853e986c53f6f52880ad4fffbd869771cd55aa14aa17aa2dfed327d23dcc9d9               29 main/source/Packages.gz
+ 34aa8ab7b5c7318ec7b52bf94784ff01d0f93d83d096cb45c9d9d22ef1809b71               99 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/source/Sources
+ 189c777514ca67c37c2a0e7bbd04c6ee4c6087238811e9109fe76446d30e3bd2               29 main/source/Sources.gz
+SHA512:
+ ed40cee3a88bf467120ba493df716f531c3f4fe8e317fc4d59b114a99f7f5ac66c06aae0fcafd34ac38154b1d972c3dc2ffadf87a15a9b96ca0eded02e990c2a              181 Release
+ 46fa907abad2cc2d342637156ccc74f781e5110881ec161ac3c369dcb353a81cb0650e5e34242d3ad73b57830995d6089b8684fd39f3516fa971b8b0ae87216c             3828 main/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 367c19e8cf88f56f3ceff466809f59083c312b7a338e4293c3df191a3624f4926238cbdf9b105f6cb74b1dd3714abc0aa19c4453e7680563ed7bb8de9acc35b7               29 main/binary-amd64/Packages.gz
+ 434b495e5404b75de6fd743eefa273782c7448a84a58c3541ba3d4a8dc07c14ec153b23d940162596449a8128a604a9ac4d22cdd5600affed15343a286207266               98 main/binary-amd64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
+ 367c19e8cf88f56f3ceff466809f59083c312b7a338e4293c3df191a3624f4926238cbdf9b105f6cb74b1dd3714abc0aa19c4453e7680563ed7bb8de9acc35b7               29 main/binary-i386/Packages.gz
+ 01ae8ff51cbf8bca08f13a784ca76c59d9da05eb7915f2db12c7f7c3e7db85b3d158b6a188a83e4909e15a85c2352135f35f5144776ac6ba02d58d73013a01c9               97 main/binary-i386/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/source/Packages
+ e07091c66643c204bfe1d83524da2dca044e9a24dcaa71e5ed9dea578ddfae1b3685cd42267bf8ad46b14057570d8f3797207801a77ecd663ae30215e762a6e0               29 main/source/Packages.gz
+ 700b3ba6477e2493856f535e65e8520f0930719d65f3a9a12681e933c9666b372b1c52f5af144bede23889354075400883a430004c9de84e42b33a939f369e81               99 main/source/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/source/Sources
+ 367c19e8cf88f56f3ceff466809f59083c312b7a338e4293c3df191a3624f4926238cbdf9b105f6cb74b1dd3714abc0aa19c4453e7680563ed7bb8de9acc35b7               29 main/source/Sources.gz
